@@ -27,63 +27,62 @@
       "name" : "Laila Young",
       "number-of-people" : "5",
       "status" : "valid",
-      "preorder" : "",
-      "reserv-type" : "quick",
-      "book-time" : "",
-      "creation-time" : ""
+      "preorder" : "yes",
+      "reserv-type" : "Quick",
+      "book-time" : ""
     },
     "r-523" : {
       "location" : "Al Riqua, Dubai",
       "name" : "Julie Nicole",
       "number-of-people" : "2",
       "status" : "valid",
-      "preorder" : "",
-      "reserv-type" : "quick",
-      "book-time" : "",
-      "creation-time" : ""
+      "preorder" : "no",
+      "reserv-type" : "Quick",
+      "book-time" : ""
     },
     "r-145" : {
       "location" : "Al Barsha ENOC Station, Dubai",
       "name" : "Raj Anand",
       "number-of-people" : "4",
       "status" : "invalid",
-      "preorder" : "",
-      "reserv-type" : "quick",
-      "book-time" : "",
-      "creation-time" : ""
+      "preorder" : "yes",
+      "reserv-type" : "Quick",
+      "book-time" : ""
     },
     "r-242" : {
       "location" : "Mall Of Emirates, Al Barsha, Dubai",
       "name" : "Hassan Ahmed",
       "number-of-people" : "12",
       "status" : "valid",
-      "preorder" : "",
-      "reserv-type" : "book",
-      "book-time" : "",
-      "creation-time" : ""
+      "preorder" : "no",
+      "reserv-type" : "Book",
+      "book-time" : "5.40 pm"
     },
     "r-152" : {
       "location" : "Mall Of Emirates, Al Barsha, Dubai",
       "name" : "Elliot Ernest",
       "number-of-people" : "1",
       "status" : "valid",
-      "preorder" : "",
-      "reserv-type" : "",
-      "book-time" : "",
-      "creation-time" : ""
+      "preorder" : "no",
+      "reserv-type" : "No",
+      "book-time" : ""
     }
 
   },
 
   "Menu" : {
-    "Chicken Burger" : {
-      "Cost" : "25"
+    "Chicken Burger Combo" : {
+      "Cost" : "35"
     },
-    "Double Chicken Burger" : {
-      "Cost" : "36"
+    
+    "Vegetable Club Sandwich Combo" :{
+      "Cost" : "24"
     },
-    "Vegetable Club Sandwich" :{
-      "Cost" : "15"
+    "Lunch Cmobo Meal" : {
+      "Cost" : "34"
+    },
+    "Super Chicken Bucket" : {
+      "Cost" : "55"
     }
   }
 
