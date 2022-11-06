@@ -1,0 +1,36 @@
+{
+
+"title" : "Section 1",
+  "rows" :[
+  {
+    "title" : "Buhaira Corniche, Sharjah",
+    "value" : "Buhaira Corniche, Sharjah",
+    "description" : "Wait time - 14 minutes"
+  },
+  {
+    "title" : "Al Riqua, Dubai",
+    "value" : "Al Riqua, Dubai",
+    "wait-time" : "Wait time - 53 minutes"
+  },
+  {
+    "title" : "Al Barsha ENOC Station, Dubai",
+    "value" : "Al Barsha ENOC Station, Dubai",
+    "wait-time" : "Wait time - 5 minutes"
+  },
+  {
+    "title" : "Mall Of Emirates, Al Barsha, Dubai",
+    "value" : "Mall Of Emirates, Al Barsha, Dubai",
+    "wait-time" : "Wait time - 90 minutes"
+  },
+  {
+    "title" : "Mirdif City Center, Dubai",
+    "value" : "Mirdif City Center, Dubai",
+    "wait-time" : "Wait time - 20 minutes"
+  },
+  {
+    "title" : "City Center, Sharjah",
+    "value" : "City Center, Sharjah",
+    "wait-time" : "Wait time - 10 minutes"
+  }
+],
+}
